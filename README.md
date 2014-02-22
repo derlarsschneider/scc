@@ -1,0 +1,4 @@
+scc
+===
+
+Secure Chat Client
